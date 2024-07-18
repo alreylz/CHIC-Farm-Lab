@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68ed15540d0d51449abeb81da2aedc2a, type: 3}
+  m_Name: Default+T+I
+  m_EditorClassIdentifier: 
+  name: +Terpenes&Inulin
+  nombre: +Terpenos&Inulina
+  detail: This modification applies an increment in terpene production of the plant
+  detalle: "Esta modificaci\xF3n aplica un incremento de la producci\xF3n de terpenos
+    de la planta"
+  modificationIcon: {fileID: 21300000, guid: 8bad6e5ba0642a64a8d02bc85dc2117e, type: 3}
+  modPlantIcon: {fileID: 21300000, guid: 73dd93ed8d293c44f8f6f8a5368e6a3e, type: 3}
+  sackPrefab: {fileID: 4612560758381722606, guid: f00265e2f86e43c40891c26d54bc605b,
+    type: 3}
+  rootPrefab: {fileID: 9077282298892741180, guid: 6966de41b49b6274aaeec356010adb3f,
+    type: 3}
+  plantPrefab: {fileID: 100000, guid: 705ec1b474a2f254887cdc94cba09509, type: 3}
+  healthMod: 0
+  terpenesProductionMod: 10
+  inulinProductionMod: 10
+  growingTimeMod: 0
+  leavesProductionMod: 0
+  resistanceToActiveDamageMod: 0
+  maxTemperatureMod: 0
+  minTemperatureMod: 0
+  maxAcceptableWaterLevelMod: 0
+  minAcceptableWaterLevelMod: 0
+  waterComsumptionPerTimeUnitMod: 0
+  timeToDamageFromExtremeTemperatureMod: 0
+  timeToDamageFromDroughtMod: 0
+  timeToDamageFromFloodMod: 0

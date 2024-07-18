@@ -1,0 +1,44 @@
+# Blender MTL File: 'Achicoria.blend'
+# Material Count: 4
+
+newmtl Material.002
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.003
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.004
+Ns 396.952389
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd E:\\Alejandro\\#Work\\AppData\\Local\\Temp\\Temp1_plantfreelancertelmo.zip\\metal aluminum\\crop modeling\\Stem.jpg
+
+newmtl roots
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd E:\\Alejandro\\#Work\\AppData\\Local\\Temp\\Temp1_plantfreelancertelmo.zip\\metal aluminum\\crop modeling\\files\\textures\\finished\\roots\\roots low poly_roots_BaseColor.png

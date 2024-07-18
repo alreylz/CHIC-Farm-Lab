@@ -1,0 +1,228 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f18fec9b55c4f818e284af454161962, type: 3}
+  m_Name: CHIC_ProjectSpeechCommandsProfile
+  m_EditorClassIdentifier: 
+  isCustomProfile: 1
+  startBehavior: 0
+  recognitionConfidenceLevel: 1
+  speechCommands:
+  - localizationKey: 
+    keyword: Menu
+    keyCode: 51
+    action:
+      id: 2
+      description: Menu
+      axisConstraint: 2
+  - localizationKey: 
+    keyword: Select
+    keyCode: 49
+    action:
+      id: 1
+      description: Select
+      axisConstraint: 2
+  - localizationKey: 
+    keyword: Toggle Diagnostics
+    keyCode: 48
+    action:
+      id: 14
+      description: Toggle Diagnostics
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Toggle Profiler
+    keyCode: 57
+    action:
+      id: 15
+      description: Toggle Profiler
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Open Inventory
+    keyCode: 105
+    action:
+      id: 0
+      description: None
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Close Inventory
+    keyCode: 107
+    action:
+      id: 0
+      description: None
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Buy Item
+    keyCode: 98
+    action:
+      id: 0
+      description: None
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Go shopping
+    keyCode: 112
+    action:
+      id: 0
+      description: None
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Abrir Inventario
+    keyCode: 105
+    action:
+      id: 0
+      description: None
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Cerrar Inventario
+    keyCode: 107
+    action:
+      id: 0
+      description: None
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Show Status
+    keyCode: 303
+    action:
+      id: 0
+      description: None
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Mostrar Estado
+    keyCode: 303
+    action:
+      id: 0
+      description: None
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Hide Status
+    keyCode: 45
+    action:
+      id: 0
+      description: None
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Ocultar Estado
+    keyCode: 45
+    action:
+      id: 0
+      description: None
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Comprar
+    keyCode: 98
+    action:
+      id: 18
+      description: Voice Interact
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Buy It
+    keyCode: 98
+    action:
+      id: 18
+      description: Voice Interact
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Vender
+    keyCode: 115
+    action:
+      id: 18
+      description: Voice Interact
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Sell It
+    keyCode: 115
+    action:
+      id: 18
+      description: Voice Interact
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Coger
+    keyCode: 103
+    action:
+      id: 16
+      description: Voice Grab
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Grab
+    keyCode: 103
+    action:
+      id: 16
+      description: Voice Grab
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Drop
+    keyCode: 0
+    action:
+      id: 17
+      description: Voice Release
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Soltar
+    keyCode: 0
+    action:
+      id: 17
+      description: Voice Release
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Abrir Tienda
+    keyCode: 43
+    action:
+      id: 0
+      description: Voice Release
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Open Shop
+    keyCode: 43
+    action:
+      id: 0
+      description: Voice Release
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Cerrar Tienda
+    keyCode: 45
+    action:
+      id: 0
+      description: Voice Release
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Close Shop
+    keyCode: 45
+    action:
+      id: 0
+      description: Voice Release
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Scan Room
+    keyCode: 278
+    action:
+      id: 0
+      description: Voice Release
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Escanear
+    keyCode: 278
+    action:
+      id: 0
+      description: Voice Release
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Stop Scan
+    keyCode: 279
+    action:
+      id: 0
+      description: Voice Release
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Parar
+    keyCode: 279
+    action:
+      id: 0
+      description: Voice Release
+      axisConstraint: 0

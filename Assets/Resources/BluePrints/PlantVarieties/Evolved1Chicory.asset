@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 606942e305b34d84388de7e01a811fb1, type: 3}
+  m_Name: Evolved1Chicory
+  m_EditorClassIdentifier: 
+  name: Chicory Ev.1
+  nombre: "Achicoria b\xE1sica"
+  especie: Especie por defecto (e.g. Achicoria)
+  species: Default plant species (e.g. Chicory)
+  infoEN: Enter here a description about this variety and why it is special .
+  infoES: "Incluye aqu\xED informaci\xF3n que consideres relevante para el usuario
+    acerca de esta variedad."
+  plantIcon: {fileID: 21300000, guid: 73dd93ed8d293c44f8f6f8a5368e6a3e, type: 3}
+  seedPrefab: {fileID: 8852933981466370336, guid: 2c025e33e00d30b40b0208f80b6a3469,
+    type: 3}
+  sackPrefab: {fileID: 100008, guid: f5c576f46099bb448b2b833188742712, type: 3}
+  rootPrefab: {fileID: 9077282298892741180, guid: 6966de41b49b6274aaeec356010adb3f,
+    type: 3}
+  plantPrefab: {fileID: 100000, guid: 705ec1b474a2f254887cdc94cba09509, type: 3}
+  health: 125
+  growingTime: 15
+  sproutingTime: 0.11
+  leavesGrowingTime: 0.39
+  floweringTime: 0.51
+  terpeneProduction: 60
+  inulinProduction: 60
+  leavesProduction: 70
+  resistanceToActiveDamage: 23
+  acceptableTemperature:
+    min: 10
+    max: 25
+  timeToDamageFromExtremeTemperature: 1
+  acceptableWaterLevels:
+    min: 10
+    max: 20
+  waterConsumptionPerTimeUnit: 0.4
+  timeToDamageFromDrought: 0.31
+  timeToDamageFromFlood: 0.48
+  inShopPrice: 150

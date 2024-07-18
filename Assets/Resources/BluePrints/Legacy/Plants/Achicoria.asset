@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 737b4c3accaa5d74e9abdac0457f34af, type: 3}
+  m_Name: Achicoria
+  m_EditorClassIdentifier: Assembly-CSharp::Plant
+  name: Chicory
+  plantIcon: {fileID: 21300000, guid: 73dd93ed8d293c44f8f6f8a5368e6a3e, type: 3}
+  seedPrefab: {fileID: 8852933981466370336, guid: 2c025e33e00d30b40b0208f80b6a3469,
+    type: 3}
+  sackPrefab: {fileID: 100008, guid: f5c576f46099bb448b2b833188742712, type: 3}
+  rootPrefab: {fileID: 9077282298892741180, guid: 6966de41b49b6274aaeec356010adb3f,
+    type: 3}
+  plantPrefab: {fileID: 100000, guid: 705ec1b474a2f254887cdc94cba09509, type: 3}
+  baseHealth: 300
+  growingTime: 15
+  nutritiousValue: 40
+  resistance: 1
+  purchasingPrice: 200
+  inulin: 20
+  terpenes: 30
