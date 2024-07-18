@@ -20,7 +20,7 @@ The project was officially re-branded
 as [My CHIC Farm](https://chicproject.eu/training-for-high-school-students/mychicfarm/) for unknown reasons (unrelated
 to me) but I like this logo best so it's why I put it here.
 
-A scientific article derived from this work was published in 2021 to which I contributed.
+A scientific article [_Investigating Augmented reality educational games for Head-mounted devices_](https://dl.acm.org/doi/10.1145/3471391.3471410) derived from this work was published in 2021 to which I contributed.
 
 ```bibtex
 @inproceedings{zarraonandia2021investigating,
