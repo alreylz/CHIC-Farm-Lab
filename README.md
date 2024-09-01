@@ -58,36 +58,27 @@ See a [short video](https://youtu.be/B2ltgGxt7UM) of the game in action. This is
 The following screenshots showcase different features and were captured during development.
 
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center">
-    <div style="margin: 10px;">
-    <img src="./media/demo-plants.jpg" alt="Demo plants" width="400" >
-  </div>
-  <div style="margin: 10px;">
-    <img src="./media/demo-inventory.gif" alt="Demo inventory" width="400" />
-  </div>
-  <div style="margin: 10px;">
-    <img src="./media/demo-shop.gif" alt="Demo shop" width="400" />
-  </div>
-  <div style="margin: 10px;">
-    <img src="./media/demo-lab.gif" alt="Demo Lab" width="400" />
-  </div>
-</div>
+<p align="center">
+<img src="./media/demo-plants.jpg" alt="Demo plants" width="400" /> 
+</p>
+
+
+<p align="center">
+  <img src="./media/demo-inventory.gif" alt="Demo inventory" width="400" style="min-width:40%;" />
+ <img src="./media/demo-lab.gif" alt="Demo Lab" width="400" />
+</p>
+
 
 ## Special thanks
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center">
-    <div style="margin: 10px;">
-    <img src="./media/Logo-DEI.png" alt="Logo DEI Lab" width="200" height="auto"/>
-  </div>
-  <div style="margin: 10px;">
-    <img src="./media/ChicProjectLogoRemade.png" alt="CHIC Project" width="200"  height="auto"/>
-  </div>
-  <div style="margin: 10px;">
-    <img src="./media/logo-uc3m.png" alt="Logo uc3m" width="200"  height="auto"/>
-  </div>
 
-
-</div>
+<p align="center">
+    <img src="./media/Logo-DEI.png" alt="Logo DEI Lab" width="200" height="auto" /> 
+</p>
+<p align="center">
+  <img src="./media/ChicProjectLogoRemade.png" alt="CHIC Project" width="200"  height="auto"/> 
+</p>
+  <!--<p align="center">  <img src="./media/logo-uc3m.png" alt="Logo uc3m" width="200"  height="auto" /></p> -->
 
 
 
